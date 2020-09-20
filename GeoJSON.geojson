@@ -10483,6 +10483,7 @@
       "id": "66c7902a346cd5adbe7f36b63c7094bf",
       "type": "Feature",
       "properties": {
+        "fill": "#00004c",
         "id": "25_50",
         "area": 7011039027325.034,
         "bbox": [
