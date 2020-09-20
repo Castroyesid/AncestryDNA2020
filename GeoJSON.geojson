@@ -15381,9 +15381,8 @@
     },
     {
       "type": "Feature",
-      "id": 2,
+      "id": "Cuba",
       "properties": {
-        "fill": "#ffc0cb",
         "id": "25_50",
         "area": 504270547811.46606,
         "bbox": [
@@ -15515,6 +15514,7 @@
       "id": "1496aeb30bd925937a88a6a3d10f786f",
       "type": "Feature",
       "properties": {
+        "fill": "#ffc0cb",
         "id": "5_25",
         "area": 13782431925543.719,
         "bbox": [
