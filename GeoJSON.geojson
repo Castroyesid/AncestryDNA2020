@@ -11393,6 +11393,7 @@
       "id": "Andes3",
       "type": "Feature",
       "properties": {
+        "fill": "#00004c",
         "id": "50_75",
         "area": 2446464627220.9834,
         "bbox": [
