@@ -2849,6 +2849,7 @@
       "id": "USCan",
       "type": "Feature",
       "properties": {
+        "fill": "#BFFF00",
         "id": "25_50",
         "area": 20902635088084.363,
         "bbox": [
