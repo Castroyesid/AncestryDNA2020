@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "id": "ArcAm",
+      "id": "ArcAm0",
       "type": "Feature",
       "properties": {
         "fill": "#FF0000",
@@ -2338,9 +2338,10 @@
       }
     },
     {
-      "id": "5c39ac9d6a789a8039dbc65dd3d31825",
+      "id": "ArcAm1",
       "type": "Feature",
       "properties": {
+        "fill": "#FF0000",
         "id": "50_75",
         "area": 8312848218276.307,
         "bbox": [
@@ -2847,7 +2848,7 @@
       }
     },
     {
-      "id": "USCan",
+      "id": "USCan0",
       "type": "Feature",
       "properties": {
         "fill": "#BFFF00",
@@ -3619,9 +3620,10 @@
       }
     },
     {
-      "id": "9c824107c9cebc9248be2d2323c426fe",
+      "id": "USCan1",
       "type": "Feature",
       "properties": {
+        "fill": "#BFFF00",
         "id": "50_75",
         "area": 11606738890414.99,
         "bbox": [
@@ -5062,9 +5064,10 @@
       }
     },
     {
-      "id": "1a99dde614ac01afa1ad2567502b0739",
+      "id": "USCan2",
       "type": "Feature",
       "properties": {
+        "fill": "#BFFF00",
         "id": "75_95",
         "area": 9945944831199.086,
         "bbox": [
