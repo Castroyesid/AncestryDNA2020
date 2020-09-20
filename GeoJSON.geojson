@@ -8607,6 +8607,7 @@
       "id": "CenAm0",
       "type": "Feature",
       "properties": {
+        "fill": "#FF0000",
         "id": "25_50",
         "area": 716292664353.1923,
         "bbox": [
@@ -8863,9 +8864,10 @@
       }
     },
     {
-      "id": "CAm3",
+      "id": "CAm1",
       "type": "Feature",
       "properties": {
+        "fill": "#FF0000",
         "id": "50_75",
         "area": 372468033700.4891,
         "bbox": [
@@ -9030,9 +9032,10 @@
       }
     },
     {
-      "id": "CAm4",
+      "id": "CAm2",
       "type": "Feature",
       "properties": {
+        "fill": "#FF0000",
         "id": "75_95",
         "area": 151898457932.91116,
         "bbox": [
