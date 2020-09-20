@@ -2851,7 +2851,7 @@
       "id": "USCan0",
       "type": "Feature",
       "properties": {
-        "fill": "#BFFF00",
+        "fill": "#008000",
         "id": "25_50",
         "area": 20902635088084.363,
         "bbox": [
@@ -3623,7 +3623,7 @@
       "id": "USCan1",
       "type": "Feature",
       "properties": {
-        "fill": "#BFFF00",
+        "fill": "#008000",
         "id": "50_75",
         "area": 11606738890414.99,
         "bbox": [
@@ -5067,7 +5067,7 @@
       "id": "USCan2",
       "type": "Feature",
       "properties": {
-        "fill": "#BFFF00",
+        "fill": "#008000",
         "id": "75_95",
         "area": 9945944831199.086,
         "bbox": [
@@ -9147,6 +9147,7 @@
       "id": "cfc816c899ed7e8ccf0bea38c62b65d3",
       "type": "Feature",
       "properties": {
+        "fill": "#FFFF00",
         "id": "25_50",
         "area": 2779576401886.393,
         "bbox": [
