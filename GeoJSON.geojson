@@ -6355,6 +6355,7 @@
       "id": "Mex2",
       "type": "Feature",
       "properties": {
+        "fill": "#9932CC",
         "id": "25_50",
         "area": 5069393510919.7295,
         "bbox": [
@@ -7066,6 +7067,7 @@
       "id": "Mex3",
       "type": "Feature",
       "properties": {
+        "fill": "#9932CC",
         "id": "50_75",
         "area": 4946776193830.706,
         "bbox": [
