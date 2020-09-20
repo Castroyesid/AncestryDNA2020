@@ -10480,7 +10480,7 @@
       }
     },
     {
-      "id": "66c7902a346cd5adbe7f36b63c7094bf",
+      "id": "Andes0",
       "type": "Feature",
       "properties": {
         "fill": "#00004c",
@@ -11390,7 +11390,7 @@
       }
     },
     {
-      "id": "Andes3",
+      "id": "Andes1",
       "type": "Feature",
       "properties": {
         "fill": "#00004c",
@@ -11902,7 +11902,7 @@
       }
     },
     {
-      "id": "Andes4",
+      "id": "Andes2",
       "type": "Feature",
       "properties": {
         "fill": "#00004c",
@@ -12262,7 +12262,7 @@
       }
     },
     {
-      "id": "3dc78d185a892ceddbca028aa5d7e2a6",
+      "id": "Br0",
       "type": "Feature",
       "properties": {
         "fill": "#ffc0cb",
@@ -13540,7 +13540,7 @@
       }
     },
     {
-      "id": "Br3",
+      "id": "Br1",
       "type": "Feature",
       "properties": {
         "fill": "#ffc0cb",
@@ -14516,7 +14516,7 @@
       }
     },
     {
-      "id": "Br4",
+      "id": "Br2",
       "type": "Feature",
       "properties": {
         "fill": "#ffc0cb",
@@ -15383,6 +15383,7 @@
       "type": "Feature",
       "id": 2,
       "properties": {
+        "fill": "#ffc0cb",
         "id": "25_50",
         "area": 504270547811.46606,
         "bbox": [
