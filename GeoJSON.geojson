@@ -12265,6 +12265,7 @@
       "id": "3dc78d185a892ceddbca028aa5d7e2a6",
       "type": "Feature",
       "properties": {
+        "fill": "#ffc0cb",
         "id": "25_50",
         "area": 13621099395067.428,
         "bbox": [
@@ -13542,6 +13543,7 @@
       "id": "Br3",
       "type": "Feature",
       "properties": {
+        "fill": "#ffc0cb",
         "id": "50_75",
         "area": 9560541364067.35,
         "bbox": [
@@ -14517,6 +14519,7 @@
       "id": "Br4",
       "type": "Feature",
       "properties": {
+        "fill": "#ffc0cb",
         "id": "75_95",
         "area": 9054132371494.402,
         "bbox": [
