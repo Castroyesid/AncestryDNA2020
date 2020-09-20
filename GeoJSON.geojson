@@ -6352,7 +6352,7 @@
       }
     },
     {
-      "id": "Mex2",
+      "id": "Mex0",
       "type": "Feature",
       "properties": {
         "fill": "#9932CC",
@@ -7064,7 +7064,7 @@
       }
     },
     {
-      "id": "Mex3",
+      "id": "Mex1",
       "type": "Feature",
       "properties": {
         "fill": "#9932CC",
@@ -7712,9 +7712,10 @@
       }
     },
     {
-      "id": "Yuc4",
+      "id": "Yuc0",
       "type": "Feature",
       "properties": {
+        "fill": "#000080",
         "id": "75_95",
         "area": 4898316785614.909,
         "bbox": [
@@ -8299,9 +8300,10 @@
       }
     },
     {
-      "id": "Yuc2",
+      "id": "Yuc1",
       "type": "Feature",
       "properties": {
+        "fill": "#000080",
         "id": "25_50",
         "area": 465019066153.1407,
         "bbox": [
@@ -8494,9 +8496,10 @@
       }
     },
     {
-      "id": "Yuc3",
+      "id": "Yuc2",
       "type": "Feature",
       "properties": {
+        "fill": "#000080",
         "id": "50_75",
         "area": 97859189490.97041,
         "bbox": [
@@ -8601,7 +8604,7 @@
       }
     },
     {
-      "id": "CAm2",
+      "id": "CenAm0",
       "type": "Feature",
       "properties": {
         "id": "25_50",
