@@ -11905,6 +11905,7 @@
       "id": "Andes4",
       "type": "Feature",
       "properties": {
+        "fill": "#00004c",
         "id": "75_95",
         "area": 1551898103272.7993,
         "bbox": [
