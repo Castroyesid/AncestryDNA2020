@@ -2,9 +2,10 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "id": "4fd66ecea17cd65dc7fd4761bae5fad2",
+      "id": "ArcAm",
       "type": "Feature",
       "properties": {
+        "fill": "#FF0000",
         "id": "25_50",
         "area": 17124466549451.006,
         "bbox": [
